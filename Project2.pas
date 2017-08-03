@@ -1,4 +1,4 @@
-program Project2;
+program Project2; // Proverka
 
 const
   Lim = 1000;
